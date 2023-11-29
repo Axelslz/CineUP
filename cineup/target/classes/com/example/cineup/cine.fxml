@@ -1,0 +1,205 @@
+<?fxml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+
+
+<Pane fx:id="cinePane" prefHeight="700.0" prefWidth="804.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.cineup.CineController">
+  <children>
+    <ImageView fitHeight="112.0" fitWidth="68.0" layoutY="9.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/cliente.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="90.0" fitWidth="68.0" layoutX="241.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/empleado.jpg" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="125.0" layoutY="234.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="203.0" layoutY="234.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="282.0" layoutY="234.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="360.0" layoutY="234.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="441.0" layoutY="234.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="519.0" layoutY="234.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="597.0" layoutY="234.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="125.0" layoutY="312.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="203.0" layoutY="312.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="282.0" layoutY="312.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="360.0" layoutY="312.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="441.0" layoutY="312.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="519.0" layoutY="312.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="597.0" layoutY="312.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="124.0" layoutY="390.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="202.0" layoutY="390.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="281.0" layoutY="390.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="359.0" layoutY="390.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="440.0" layoutY="390.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="518.0" layoutY="390.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="596.0" layoutY="390.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="125.0" layoutY="156.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="203.0" layoutY="156.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="282.0" layoutY="156.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="360.0" layoutY="156.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="441.0" layoutY="156.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="519.0" layoutY="156.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="597.0" layoutY="156.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="125.0" layoutY="468.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="203.0" layoutY="468.0" pickOnBounds="true"
+               preserveRatio="true">
+      <Image url="@images/asiento.png"/>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="282.0" layoutY="468.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="360.0" layoutY="468.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="441.0" layoutY="468.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="519.0" layoutY="468.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="78.0" fitWidth="89.0" layoutX="597.0" layoutY="468.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/asiento.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="302.0" layoutY="559.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/pantalla.png" />
+      </image>
+    </ImageView>
+    <ImageView fitHeight="98.0" fitWidth="184.0" layoutX="310.0" layoutY="575.0" pickOnBounds="true" preserveRatio="true">
+      <image>
+        <Image url="@images/marvel-studios.png" />
+      </image>
+    </ImageView>
+  </children>
+</Pane>
